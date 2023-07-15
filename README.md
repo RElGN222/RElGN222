@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RElGN222
 - 👀 Information Security & Programming Professional
-- :closed_lock_with_key: Security Projects
+- :closed_lock_with_key: SOAR/SIEM Tools
 - 👨‍💻 Python Automation Projects:
 
 
