@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RElGN222
-- 👀 I’m interested in CyberSecurity, Programming
-- 🌱 I’m currently learning ...
+- 👀 Information Security & Programming Professional
+- :closed_lock_with_key: Security Projects
+- 
 - 👨‍💻 Python Automation Projects:
 - 📫 How to reach me ...
 
